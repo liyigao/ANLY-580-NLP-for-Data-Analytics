@@ -1,0 +1,38 @@
+﻿Lingyue Data science: I hope to know the details of career services at GSAS, including the job placement. Thanks.
+
+Katie Laugel: Hi Lingyue, students enrolled at GSAS can utilize the Wasserman Center for Career Development. Wasserman has a ton of great resources like on campus recruitment, resume workshops, mock interviewing and you can speak to one of their career counselors about looking for an internship or full time work. As a graduate of GSAS, you can utiltize their resources up to one year after graduation. You can find out more info here: http://www.nyu.edu/life/resources-and-services/career-development.html 
+
+
+Ayesha Econ/Data Science: For data science, is it important to take CS100/200 in college? Can't we learn the programing languge from someother institution? If the course is not being offered at college?
+
+Jennifer Conlan Darlington: Hi Ayesha, Thank you for your interest in the Graduate School of Arts and Science. I would suggest contacting the Data Science Department directly to see which if any programming languages they expect their applicants to know already and to what extent. If your undergraduate school does not offer courses covering the areas they recommend, then you can discuss with them taking the courses elsewhere or seeing if there are courses one could take at NYU to cover the information as well. You can contact the department at datascience-group@nyu.edu. Thanks, Jen Darlington
+
+
+dan: i am currently an undergraduate student applying to the data science program. What should be my split in my letters of recommendation? All academic or can i have supervisors and non-academics as well?
+
+Katie Laugel: Hi Dan, for letters of reccomendation, the departments typically look for at least 2 academic references if you have been enrolled in an undergraduate program recently. One letter can be from a professional reccomender.
+
+
+Ayesha B: Also, If I wish to apply to the PhD. program in data science, if not selected for the PhD. program will I be considered for MS as well?
+
+Zoya Sadykov: Hello Ayesha, Yes, you can be considered for the MS program if you ask for it once the reject decision has been made. Regards, 
+
+
+Xu Duo (Data Science): I sent my recommendation request on 10/21/2016 and was still waiting the last response. During this time, does my profile can still be reviewed, or my profile only be reviewed when the school received all three recommendation letters? In addition, when I completed all the application process, how long cam I hear any response about the result from NYU?
+
+Zoya Sadykov: Hello Xu, Every department has their own policy on how to manage incomplete applications. You should get in touch with the department to more information. Keep in mind that they are not yet reviewing applications for the Fall 2017 term. Regards, Zoya
+
+
+Ayesha Econ/Data Science: do all the admitted students get a dorm room?
+
+Charles Boyle: Hi Ayessha, Thanks for your question. Gradaute housing is very limited and admitted student have the option to apply to be on a waitlist. We do have a housing program for admitted PhD students but again we have a limited numbers of spaces available in this program as well. NYU does have an excellent off-campus housing office. Pleas esee the link in the lower right hand corner of this screen. Thanks! Charles 
+
+
+Ayesha B: Hi, Kristi. I am applying for Data science MS program, can u provide some information regarding that program? Especially the Data science section in the application form.
+
+Jennifer Conlan Darlington: Hi Ayesha. Thank you for your interest in the Graduate School of Arts and Science. The Center for Data Science has a lot of information on their webpage about their master's program, the curriculum and related admissions information. You can learn more about it by going to the link below:http://cds.nyu.edu/academics/ms-in-data-science/Did you have specific questions about the application form in regards to Data Science?Thanks,Jen Darlington
+
+
+Ayesha B: Thanks. What is the stipend for the PhD Data science students?
+
+Jennifer Conlan Darlington: Hi Ayesha. The 2017-2018 acedmic year will be the first year that we offer a PhD program in Data Science. In fact, NYU will be the first school in the country to offer a PhD in Data Science so it is a very exciting time for us. I do not know yet what the stipend amount for Data Science PhD students will be for next year. You can contact the department to see if that has been determined yet. You can contact them at datascience-group@nyu.edu. Thanks. Jen Darlington

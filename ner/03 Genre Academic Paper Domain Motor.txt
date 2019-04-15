@@ -1,0 +1,724 @@
+﻿The motor features of action verbs: fMRI evidence using picture naming
+Yong Zhanga,b,c, Kangcheng Wangd,e, Chang Yuea, Nina Mof, Deping Wug, Xu Wenb,⁎,
+Jiang Qiud,e,⁎
+a School of Foreign Languages, Southwest University of Political Science and Law, Chongqing 401120, China
+b College of International Studies, Southwest University, Chongqing 400715, China
+c Center for Legal Language, Culture and Translation Studies, Southwest University of Political Science and Law, Chongqing 401120, China
+d School of Psychology, Southwest University, Chongqing 400715, China
+e Key Laboratory of Cognition and Personality of Ministry of Education, Southwest University, Chongqing 400715, China
+f Research Center for Language, Cognition and Language Application, Chongqing University, Chongqing 401331, China
+g Graduate School, Sichuan International Studies University, Chongqing 400031, China
+A R T I C L E I N F O
+Keywords:
+Action verbs
+Object nouns
+Picture naming
+Motor system
+fMRI
+A B S T R A C T
+The processing disadvantage of verbs compared to nouns and the greater vulnerability of verbs in brain damage
+have been ascribed to greater processing demands of morpho-syntactical or/and semantic properties for verbs,
+or/and visual complexity in picture-naming studies. Using picture naming, the current functional magnetic
+resonance imaging study examined the neural substrates underlying the semantic distinction between nouns and
+verbs. Under forced (externally-elicited) or free (internally-motivated) conditions, participants named a set of
+pictorial stimuli as objects or actions performed on/with the objects in Chinese. Use of a language with impoverished
+inflectional morphology (i.e., Chinese) and the same set of pictures for naming objects and actions
+allows for the control of both morpho-syntactical and visual confounds. The results revealed specific neural
+correlates for action verbs in the cortical-subcortical motor system, irrespective of the naming conditions.
+Plausible accounts for the motor aspects of action-verb processing were interpreted basically on a semantic basis.
+1. Introduction
+Nouns and verbs, across all human languages, are two of the earliest
+acquired and the most extensively studied grammatical classes. Nouns
+and verbs differ systematically at different linguistic levels. At the semantic
+level, the two grammatical classes are distinguished between
+the concepts of objects (or entities) and the concepts of actions (or
+events) (Bird, Howard, & Franklin, 2000; Vigliocco, Vinson, Lewis, &
+Garrett, 2004). Syntactically and morphologically, verbs are more
+complex than nouns in most languages (Friedmann, Wenkert-Olenik, &
+Mali, 2000; Vigliocco et al., 2006). For example, some Indo-European
+languages rich in inflectional morphology have complex inflectional
+systems in number, tense, aspect, mood and gender.
+Converging evidence has demonstrated more demands of cognitive
+resources for verb processing than noun processing and greater vulnerability
+of verbs in brain damage (for reviews see Mätzig, Druks,
+Masterson, & Vigliocco, 2009; Vigliocco, Vinson, Druks, Barber, &
+Cappa, 2011). In children’s language acquisition, verbs tend to be more
+difficult to learn than nouns (Bornstein & Cote, 2005). Moreover, behavioral
+studies have reported worse naming performance for verbs
+than nouns in neurologically intact participants using picture naming
+(e.g., Bogka et al., 2003; Cotelli, Manenti, Brambilla, Zanetti, &
+Miniussi, 2012; Szekely et al., 2005). Evidence from clinical neuropsychology
+has demonstrated a higher incidence of a verb disproportionate
+deficit. According to a review of 38 papers based on
+picture naming performance of 280 aphasic patients with focal brain
+damage, a relative verb deficit (75%) was far more frequently reported
+than a relative noun deficit (11%), with some patients (14%) showing
+no noun-verb difference (Mätzig et al., 2009). A verb disproportionate
+deficit was also systematically observed in patients with progressive
+lesions such as PD (Parkinson’s disease) (Bertella et al., 2001; Cotelli,
+Manenti, Brambilla, & Borroni, 2017; Péran et al., 2009; Péran et al.,
+2013).
+Functional neuroimaging literature has observed, though considerably
+overlapping, partially separable neural networks between
+noun and verb processing. A body of studies showed greater verb-specific
+activations not only in the left prefrontal areas (e.g., Liljeström
+et al., 2008; Tsigka, Papadelis, Braun, & Miceli, 2014; Yu, Law, Han,
+Zhu, & Bi, 2011), but also in the left middle temporal gyrus, parietal
+lobe, fusiform and premotor cortex (e.g., Berlingeri et al., 2008;
+https://doi.org/10.1016/j.bandl.2018.02.002
+Received 19 September 2017; Received in revised form 3 December 2017; Accepted 15 February 2018
+⁎ Corresponding authors at: Department of Psychology, Southwest University, NO. 2 Rd Tiansheng, Beibei District, Chongqing 400016, China (J. Qiu). College of International Studies,
+Southwest University, NO. 2 Rd Tiansheng, Beibei District, Chongqing 400016, China (X. Wen).
+E-mail addresses: xuwen@swu.edu.cn (X. Wen), qiuj318@swu.edu.cn (J. Qiu).
+Brain and Language 179 (2018) 22–32
+Available online 02 March 2018
+0093-934X/ © 2018 Elsevier Inc. All rights reserved.
+T
+Liljeström et al., 2008; Momenian, Nilipour, Samar, Oghabian, &
+Cappa, 2016; Tranel, Martin, Damasio, Grabowski, & Hichwa, 2005; Yu
+et al., 2011). In contrast, only a few studies demonstrated noun-specific
+activations in the left temporal lobe and other brain regions (e.g.,
+Fujimaki et al., 1999; Shapiro, Moo, & Caramazza, 2006; Shapiro et al.,
+2005; Siri et al., 2008). The observation of greater cortical activation
+for verbs, anyhow, stands in a position which is compatible with the
+aforementioned evidence that verbs are more demanding to process
+than nouns.
+The general processing disadvantage of verbs has been accounted
+for by two overarching views. A morpho-syntactic view assumes that
+different morpho-syntactic processes between nouns and verbs are
+computed in partially segregated neural circuits (Shapiro & Caramazza,
+2003a, 2003b; Shapiro, Shelton, & Caramazza, 2000). In languages rich
+in inflectional morphology, verbs are morphologically and syntactically
+more complex than nouns. As a result, verbs are more demanding to
+process than nouns. Alternatively, a semantic view argues that the
+observed noun or verb disproportionate deficit is in fact a reflection of
+an underlying segregation between object and action concepts
+(Berlingeri et al., 2008; Crepaldi, Berlingeri, Paulesu, & Luzzatti, 2011;
+Pulvermüller, Mohr, & Schleichert, 1999; Vigliocco et al., 2011). As
+linguistic representations are organized by sensorimotor experience
+(Barsalou, Simmons, Barbey, & Wilson, 2003; Hauk, Johnsrude, &
+Pulvermüller, 2004; Pulvermüller, 2005), nouns and verbs have distinct
+semantic properties.
+Actually, nouns and verbs are deemed to dissociate along the
+morpho-syntactic dimension or/and semantic dimension (for reviews
+see Crepaldi et al., 2011; Mätzig et al., 2009; Vigliocco et al., 2011). In
+some Indo-European languages, nouns and verbs carry heavy morphological
+loads. For example, Saccuman et al. (2006) asked participants
+to name pictures as objects or actions in Italian, a language with
+more than 90 possible inflected verb forms but only 4 possible inflected
+noun forms. Chinese, however, is a language with virtually no inflectional
+morphology, i.e., no verb conjugations and no noun declensions
+(Bates, Chen, Tzeng, Li, & Opie, 1991). An example to show absence of
+inflectional markers in Chinese is that there are no plural forms for
+Chinese countable nouns. For “NIAN”  which means “year”, “YINIAN”
+ and “LIANG-NIAN“ are respectively equivalent to
+“one year” and “two years”. As the naming language in studies addressing
+the noun-verb dissociation is usually rich in inflectional morphology,
+a logical inference follows that the processing disadvantage of
+verbs in a language with impoverished inflectional morphology may be
+interpreted basically on a semantic basis.
+Within the semantic framework, one of the semantic complexities
+for verbs under discussion is that the processing of action verbs is believed
+to involve the motor system (Pulvermüller, 2005). A close link
+between language deficits and motor impairment has been well documented
+in patients with movement disorders (e.g., Cardona et al., 2013;
+Cotelli et al., in press; Péran et al., 2009). For example, using picture
+naming, an fMRI study with non-demented PD patients found positive
+correlations between the severity of the motor deficit and brain activities
+in the pre- and post-central gyri bilaterally, left supplementary
+motor area, left frontal operculum and right superior temporal cortex
+during action naming (Péran et al., 2009). The findings from patients
+with PD, clinically characterized by movement disorders, have provided
+strong evidence for the role of the motor system in action naming.
+Given the noun-verb dissociation discussed in the literature is
+mostly based on picture naming performance (for reviews see Cotelli
+et al., in press; Mätzig et al., 2009; Vigliocco et al., 2011), the current
+study focused mainly on picture naming. Within this context, it is
+surprising that the motor features of action verbs have so far been little
+illustrated in imaging studies which addressed the noun-verb dissociation
+in neurologically intact participants using picture naming
+(Berlingeri et al., 2008; Damasio et al., 2001; Liljeström et al., 2008;
+Momenian et al., 2016; Saccuman et al., 2006; Siri et al., 2008; Tranel
+et al., 2005). Rather, those studies have yielded mixed results which can
+be attributed to, except for morpho-syntactic factors, various unmatched
+psycholinguistic variables.
+Visual processing demands may be a striking confounding variable
+in picture naming. In most studies (e.g., Berlingeri et al., 2008; Mätzig
+et al., 2009; Momenian et al., 2016), the use of two completely different
+sets of pictures (i.e., object pictures and action pictures) is problematic
+due to between-set incomparability in visual processing demands
+(Liljeström et al., 2008). For example, in Mätzig and colleagues’ study
+(2009), the action pictures have significant higher visual complexity
+than the object picture. Therefore, the processing disadvantage for
+verbs may be due to greater processing demands of visual-spatial loads
+from action pictures, but not to verb processing per se (Liljeström et al.,
+2008; Pillon & d'Honincthun, 2010). Several studies have used a set of
+pictorial stimuli for naming in order to lessen confounds from visual
+processing demands (Hernandez, Dapretto, Mazziotta, & Bookheimer,
+2001; Liljeström et al., 2008; Siri et al., 2008). However, the use of
+action pictures to name objects in the aforementioned studies may lead
+to naming uncertainties. For example, Hernandez et al. (2001) asked
+participants to name an action picture “to light the candle” as an object.
+Actually, possible candidates for object naming here include “candle”,
+“hand”, “match’, and even “flame”. An alternative approach, therefore,
+is to use the same set of object pictures for naming objects or actions
+performed on/with the objects.
+Notably, aphasic patients or healthy participants in typical laboratory
+paradigms were externally required to name pictures as objects or
+actions, whereas the interlocutor in a naturally occurring context of
+language production has free options to produce internally intended
+concepts in response to a pictorial stimulus. Neuroimaging studies of
+externally versus internally guided word production (Crosson et al.,
+2001; Tremblay & Gracco, 2006) and language switching with production
+tasks (Blanco-Elorrieta & Pylkkänen, 2017; Zhang et al., 2015)
+demonstrated the differences between the mechanisms underlying
+language production in typical laboratory (i.e., forced) contexts and
+that in more naturally occurring (i.e., free or voluntary) contexts.
+Therefore, how noun-verb distinction changes with different naming
+contexts remains unknown. What’s more, studies of brain-damaged
+patients showed evidence for a close link between aphasia and movement
+disorders, suggesting the role of the motor system in the processing
+of action verbs (for a review see Cotelli et al., in press). Notably,
+dysfunctions of voluntary action are features of patients with movement
+disorders (Haggard, 2008). Thus, an endeavor to explore language
+production under forced and free (or voluntary) conditions may provide
+complementary information for empirical and clinical studies on the
+processing disadvantage of verbs with picture naming paradigms.
+In the current study (i) we were interested in the brain regions activated
+during the processing of action verbs relative to that of object
+nouns when both morph-syntactic and visual processing demands were
+controlled; (ii) we wanted to find out if patterns of verb-versus-noun
+brain activation would remain consistent independent of free (internally
+motivated) or forced (externally elicited) naming conditions. We
+adopted a factorial design in which, under forced or free conditions,
+neurologically intact participants named the same set of pictorial stimuli
+as objects or actions performed on/with the objects in Chinese
+(Péran et al., 2009). Chinese is a language characterized by impoverished
+inflectional morphology (Bates et al., 1991). Thus, using
+Chinese as the naming language is expected to minimize morpho-syntactic
+confounds (Yu et al., 2011). Moreover, by using the same set of
+object pictures for naming objects or actions performed on/with the
+objects under different naming conditions, any differences couldn’t be
+attributed to visual processing demands (Siri et al., 2008; Vigliocco
+et al., 2011).
+Y. Zhang et al. Brain and Language 179 (2018) 22–32
+23
+2. Method
+2.1. Participants
+Twenty-one native Chinese speakers (11 females and 10 males,
+mean age=21.7, SD=2.08) from the community of Southwest
+University, China, were recruited in the experiment. All participants
+were right-handed using Edinburgh inventory (Oldfield, 1971) with
+normal or corrected-to-normal vision. No participant had a history of
+major medical, neurological, or psychiatric disorder. Informed consent
+was obtained from each participant in accordance with the guidelines
+approved by the research ethical committee of Southwest University in
+China. The imaging data of four participants were excluded from the
+analysis: three due to excessive movement (> 2.5mm or 2.5° within
+one run) and one due to failure to follow task instructions to perform
+the tasks under free conditions (i.e., the number of response rates for
+object or action naming was less than 60% of the average). Thus, data
+from 17 participants (11 females and 6 males, mean age=22.1,
+SD=2.63) were included in the final data analyses.
+2.2. Materials
+Sixty black-and-white line drawings were selected from the
+Snodgrass and Vanderwart’s (1980) set as naming materials (see full
+version of materials in Appendix). The psycholinguistic characteristics
+of the pictorial stimuli were derived from Chinese version of Snodgrass
+and Vanderwart’s Naming Battery (Zhang & Yang, 2003) on a 5-point
+scale (1=very unfamiliar/unagreeable/incomplex, 5=very familiar/
+agreeable/complex), with familiarity (4.5 ± 0.6), image agreement
+(3.5 ± 1.2) and visual complexity (2.3 ± 0.9).
+2.3. Design and task
+Participants were instructed to covertly name the same set of pictures
+as objects or as actions performed on/with the object (e.g., 自行
+车-骑(bike-ride),风筝-放(kite-fly),苹果-吃(apple-eat)) under forced or
+free conditions. Therefore, the task followed a 2 (naming type: object
+naming versus action naming)×2 (naming condition: forced versus
+free) within-subjects factorial design. Three cues were used with “N”
+and “V” for forced condition and “O” for free condition. Under a forced
+condition, the participants were required to name a picture as an object
+when the cue is “N” (forced object naming) or an action when the cue is
+“V” (forced action naming). Under a free condition when the cue is “O”
+(free object or action naming), the participants had freedom to name a
+picture as an object or an action. Following the instruction for free
+conditions as done by Arrington and Logan (Arrington & Logan, 2004),
+we required the participants to name pictures as objects or actions
+equally often and in a random order.
+An event-related design was adopted in the current study with four
+runs. A total of 60 pictorial stimuli (object pictures) were equally divided
+into four sets with each set cued respectively by “N”, “V”, “O” and
+“O”. In the four runs, a Latin square was built for the set order so that
+each set appeared once with a different cue in each run (namely, N-V-OO
+for Run1, V-O-N-O for Run2, O-O-V-N for Run3 and O-N-O-V for
+Run4). Then the trial sequences in each run were jittered and optimized
+using the GA algorithm (Wager & Nichols, 2003) and remained fixed for
+every participant. Thus, each pictorial stimulus was repeated four times
+but with no one repeated in the same run.
+2.4. Procedure
+Each trial began with a 250-ms fixation cross, followed by a visual
+cue (“N”, “V” or “O”) for 250 ms. A picture was then displayed for
+1500 ms. Each trial was followed by a jittered inter-stimulus interval
+(ISI) of 1000, 2000 or 3000 ms. For each trial, participants were asked
+to name a picture covertly according to the cue once they viewed the
+picture. Due to technical constraints that precluded the recording of
+verbal responses, participants were asked to perform synchronous
+manual responses while naming. Half of the participants were required
+to press a button by self-monitoring their naming response type, with
+left thumb for object naming and right thumb for action naming. This
+task-to-hand assignment was reversed for the other half of the participants.
+All participants underwent 3 sessions. A practice session outside the
+scanner was first conducted. Participants named each of sixty pictorial
+stimuli as an object and then as an action performed on/with the object.
+During action naming, there is usually naming disagreement. For example,
+a picture depicting an apple may be named as an action “peel”
+or “eat”. To avoid naming uncertainties, the naming practice was performed
+three times in order to reduce uncertainties about the target
+response (Berlingeri et al., 2008). Each participant was asked to remain
+consistent in naming words which first came into his/her mind while
+viewing the picture. After the naming practice, sixteen additional pictures
+were used to familiarize with the experimental procedure. During
+the scanning session, participants completed four experimental runs.
+Afterwards, outside the scanner, a behavioral session followed with the
+identical pictorial stimuli and experimental procedure as done during
+the scanning session (Abutalebi et al., 2013; Momenian et al., 2016).
+The participants’ verbal naming responses were collected with the Serial
+Response Box (SRBox, model 200a, Psychology Software Tools Inc.,
+Pittsburgh, PA, USA).
+2.5. Behavioral data analysis
+Participants’ response times (RT) and accuracies were respectively
+collected in and out of the scanner. We separately analyzed the two sets
+of behavioral data. Within each set of data, we conducted a 2 (naming
+type: object/action)×2 (naming condition: forced/free) within-subjects
+repeated-measures ANOVA for the RTs and error rates, respectively.
+Moreover, direct comparisons of object and action naming under
+forced and free conditions were respectively performed using pair-wise
+t-tests.
+2.6. fMRI data acquisition and processing
+MRI scans were acquired on a Siemens 3.0T Trio scanner using a 12-
+channel transmit/receive gradient head coil (Southwest University,
+China). An echo planer imaging with gradient echo (EPI GRE) sequence
+was applied to acquire the blood oxygen level-dependent signals (flip
+angel=90°, TR=2000 ms, T=30 ms, FOV=64×64mm2, 32 interleaved
+descending slices, voxel size=3.44×3.44×3.00mm3 with
+1-mm intra-slice gap). Anatomical reference images were also acquired
+for each participant with a 3-D GRE T1-weighted sequence
+(TR=1900 ms, TE=2.52 ms, flip angle=9°, FOV=256×256mm2,
+voxel size=1×1×1mm3).
+Data preprocessing and analysis were performed using SPM12
+(Wellcome Trust Centre for Neuroimaging, London, UK, http://www.
+fil.ion.ucl.ac.uk/spm/) and implemented on MATLAB version 2012a).
+The first 10 volumes of each run were discarded to minimize the
+transition effects of hemodynamic responses. The remaining functional
+images were corrected for slice timing with the middle slice as reference,
+and then realigned to remove head motion. Data were then
+normalized to a standard template in the Montreal Neurological
+Institute (MNI) space. Prior to statistical analysis, all images were
+smoothed with an isotropic 8-mm full-width-half-maximal Gaussian
+kernel. Time-series from each voxel were high-pass filtered (1/128 Hz
+cutoff) to remove low-frequency noise and signal drift.
+At the first level, the preprocessed functional volumes were submitted
+to fixed-effects analyses for each participant, with the general
+linear model applied at each voxel across the whole brain. Four variables
+(i.e., forced object naming, forced action naming, free object
+naming and free action naming) were entered into the model. The
+Y. Zhang et al. Brain and Language 179 (2018) 22–32
+24
+BOLD response for each event was modeled with the canonical hemodynamic
+response function along with the time derivative. Six parameter
+estimates of head motion were entered as confound regressors in
+the first-level single-subject design matrices to correct for potential
+movement artifacts. In addition, the reaction time was entered as a
+confound regressor to exclude button-pressing artifacts.
+To generalize statistical inferences to the population level, a 2×2
+within-subjects flexible factorial design was applied at the second-level
+analysis. The contrast images derived from the first-level analyses were
+entered into the model in a subject-wise fashion. First, we examined the
+main effects of the two factors (naming type and naming condition). We
+then obtained the interaction effect. To further examine if the nounverb
+dissociation changed with different naming contexts, we analyzed
+the simple effects of object versus action naming under free conditions
+and forced conditions. All of the resulting statistical maps were set to a
+significant threshold of p < 0.001, corrected for false discovery rate
+(FDR). An extent threshold of 20 contiguous voxels was applied to all
+contrasts.
+3. Results
+3.1. Behavioral results
+Wrong naming, naming emendation, no responses and extreme slow
+or fast responses (more than 3 SDs) were labeled as response errors. As
+demonstrated in Table 1, similar patterns of RT results were exhibited
+by the participants in and out of the scanner. The results showed significant
+main effects of naming type (in-scanner: F(1,16)=21.38,
+p < 0.001; out-scanner: F(1,16)=32.83, p < 0.001) and naming
+condition (in-scanner: F(1,16)=18.18, p=0.001; out-scanner: F
+(1,16)=17.11, p=0.001), but no significant interactions between
+them. The results of error analysis showed main effects of naming type
+(F(1,16)=9.48, p=0.007) and naming condition (F(1,16)=20.42,
+p < 0.001), and a significant interaction (F(1,16)=8.38, p=0.011)
+in the scanner, while there was a main effect of naming condition (F
+(1,16)=9.48, p=0.007), but no main effect of naming type (F
+(1,16)=2.01, p=0.175) and no significant interaction (F
+(1,16)=0.22, p=0.643) out of the scanner. For the RT analysis, action
+naming (in-scanner: 914 ms; out-scanner: 866 ms) was overall
+slower than object naming (in-scanner: 876 ms; out-scanner: 819 ms).
+For the error analysis, action naming (in-scanner: 3.1%; out-scanner:
+2.2%) had higher error rates than object naming (in-scanner: 1.8%; outscanner:
+1.7%).
+3.2. Imaging results
+The results showed significant main effects of naming type and
+naming condition, but no interaction between them (p < 0.001, FDR
+corrected). The main effect of naming type demonstrated that action
+naming compared to object naming elicited activations in the precental
+gyrus (BA 4/6), supplementary motor area (BA 6) and insula (BA 13)
+and thalamus in the left hemisphere and right precentral gyrus (BA 6)
+whereas no significant activations were observed when object naming
+was compared to action naming (see Table 2 and Fig. 1). These activated
+areas were associated with the motor network, suggesting the
+role of the motor system in the processing of action verbs. In addition,
+bilateral temporal gyri (BA 21/22) were activated when comparing
+action naming to object naming. The simple effect of verb-specific activation
+under forced naming conditions was observed in the left precentral
+gyrus (BA 4/6), supplementary motor area (BA 6), insula (BA
+13), thalamus and bilateral temporal gyri (BA 21/22). The simple effect
+of verb-specific activation under free naming conditions was observed
+in the left precentral gyrus (BA 4/6), insula (BA 13) and thalamus (see
+Table 2 and Fig. 2).
+Free versus forced condition demonstrated significant responses in
+the bilateral middle frontal gyri, superior/inferior parietal lobule,
+middle/inferior temporal gyrus, and the left precuneus (p < 0.001,
+FDR corrected). Forced versus free condition showed activations in the
+left inferior frontal gyrus, cingulate gyrus, and the bilateral inferior
+parietal lobule (p < 0.001, FDR corrected) (see Table 3 and Fig. 3).
+4. Discussion
+By controlling for both morpho-syntactic and visual confounds, the
+current fMRI study using picture naming examined the noun-verb dissociation
+under forced and free naming conditions. When action
+naming was compared to object naming, significant activations were
+observed in the left hemishpere, including the precental gyrus, supplementary
+motor area, insula, thalamus, middle cingulate gyrus, and
+the bilateral middle temporal cortices. The verb-specific activation
+engaged the motor system irrespective of the naming conditions while
+no significant activations were observed when object naming was
+compared to action naming. These results from neurologically intact
+participants were in line with those of Péran and colleagues’ study on
+action-verb processing in PD patients (2009), offering complementary
+evidence for the role of the motor system in the processing of action
+verbs. With regard to the naming conditions, naming under free condition
+compared to naming under forced condition elicited fronto-
+Table 1
+Response time and error rates in and out of the scanner.
+Condition Response time Analysis Error rates Analysis
+Mean (ms) SD Mean (%) SD
+In-scanner Object 876 131 F(1,16)=21.38*** 1.8 1.5 F(1,16)=9.48**
+Action 914 116 3.1 3.1
+ForO 855 128 T(1,16)=3.83** 2.4 1.6 T(1,16)=3.44**
+ForA 894 117 4.5 3.5
+FreO 896 134 T(1,16)=3.57** 1.2 1.0 T(1,16)=1.10
+FreA 933 115 1.6 1.7
+Out-scanner Object 819 77 F(1,16)=32.83*** 1.7 1.8 F(1,16)=2.01
+Action 866 69 2.2 2.3
+ForO 798 85 T(1,16)=3.94** 2.4 2.3 T(1,16)=1.05
+ForA 845 66 3.2 2.6
+FreO 840 65 T(1,16)=5.74*** 0.9 0.7 T(1,16)=1.32
+FreA 887 67 1.3 1.4
+ForO=forced object, ForA=forced action, FreO=free object, FreA=free action. Only the analysis results for the main effect of naming type (F value) and the comparison between
+object naming and action naming (t value) were offered here.
+** p < 0.01.
+*** p < 0.001.
+Y. Zhang et al. Brain and Language 179 (2018) 22–32
+25
+parietal cortex, suggesting the engagement of cognitive control
+(MacDonald, Cohen, Stenger, & Carter, 2000).
+The role of the motor system in action naming has been brought into
+discussion in lesion-based studies (e.g., Chow, Brambati, Gorno-
+Tempini, Miller, & Johnson, 2010; Cotelli et al., 2007, in press, 2006;
+Péran et al., 2009). For example, using fMRI, Péran et al. (2009) reported
+positive correlations between the severity of the motor deficits
+and brain activities in motor-related brain regions when PD patients
+conducted picture naming tasks. A voxel-based morphometry study on
+the naming ability of patients with Corticobasal Syndrome and Progressive
+Supranuclear Palsy revealed a correlation between left premotor
+atrophy and action-related object naming (Chow et al., 2010).
+Moreover, a deficit on measures involving action knowledge but not
+object knowledge in patients with Amyotrophic Lateral Sclerosis was
+also observed to correlate with motor cortex atrophy (Grossman et al.,
+2008). In the current study, the verb-specific activations with picture
+naming tasks in neurologically intact participants may offer complementary
+evidence to those lesion-based studies which claimed a
+close link between language deficits and motor impairment. Thus,
+evidence from both the current study and language production deficits
+in patients with movement disorders seem to point to the role of the
+motor system in the processing of action verbs.
+Studies on non-brain-damaged participants also show the engagement
+of the motor and premotor cortices in the processing of actionrelated
+words (Hauk et al., 2004; Martin, Wiggs, Ungerleider, & Haxby,
+1996; Pulvermüller, 2005). Neuroimaging studies observed the activation
+of motor system during speech sound perception (e.g.,
+Pulvermüller et al., 2006; Wilson & Iacoboni, 2006; Wilson, Saygin,
+Sereno, & Iacoboni, 2004). Likewise, action verbs were reported to
+evoke significant responses in motor and/or premotor cortices in
+comprehension tasks such as reading (Hauk et al., 2004), passive listening
+(Raposo, Moss, Stamatakis, & Tyler, 2009), semantic judgment
+(Kemmerer, Castillo, Talavage, Patterson, & Wiley, 2008) and lexical
+judgment (De Grauwe, Willems, Rueschemeyer, Lemhöfer, & Schriefers,
+2014). An fMRI experiment in healthy participants demonstrated that
+semantic representations of action verbs and mental representations of
+action were subserved by partially overlapping brain networks (Péran
+et al., 2010). In a recent review, Kemmerer (2015) have even suggested
+that the motor features of verb meanings are represented in the precentral
+motor cortices.
+Table 2
+Brain regions showing significant activations during action versus object naming.
+Activated regions MNI coordinates Brodmann area Cluster size Z score
+x y z
+Action-object
+Left precentral gyrus −38 −22 50 4/6 605 8.22
+Right precentral gyrus 52 −6 42 6 25 6.59
+Left supplementary motor area −6 −8 54 6 29 6.08
+Left insula −36 −24 12 13 294 8.82
+Left thalamus −14 −20 2 – 121 6.67
+Right superior temporal gyrus 62 6 −8 21 89 8.33
+68 −4 18 22 138 8.07
+Left superior temporal gyrus −54 −8 4 22 47 6.28
+−64 −16 8 42 35 6.85
+Action-object under forced conditions
+Left precentral gyrus −36 −22 54 4/6 1296 7.43
+Left supplementary motor area −6 −8 52 6 75 6.42
+Left insula −48 −22 18 13 369 6.94
+Left thalamus −14 −20 2 – 118 6.64
+Left superior temporal gyrus −60 −16 8 22 170 5.33
+Right superior temporal gyrus 66 −26 8 42 66 5.41
+66 −6 6 22 43 5.59
+Right middle temporal gyrus 62 2 −8 21 92 5.79
+Action-object under free conditions
+Left precentral gyrus −48 −16 56 4/6 971 8.86
+Left insula −46 −20 14 13 37 8.74
+Left thalamus −12 −18 2 41 7.95
+Object-action None
+Activations are listed at a significance threshold of p < 0.001, corrected for false discovery rate. Only clusters with more than 20 voxels are listed.
+Fig. 1. Brain regions associated with action naming relative to object naming.
+Y. Zhang et al. Brain and Language 179 (2018) 22–32
+26
+Notably, evidence for a language-motor link mainly comes from
+language perception and comprehension (for reviews see Fischer &
+Zwaan, 2008; Pulvermüller & Fadiga, 2010; Willems & Hagoort, 2007).
+However, fMRI studies with picture naming in non-brain-damaged
+participants have provided limited supports for the engagement of the
+motor system in the processing of verbs. Absence of direct evidence
+from studies with picture naming paradigms may be owed to the
+greater processing demands for morpho-syntactic, semantic or/and visual
+processing separately or jointly. For example, it is well-documented
+that the left inferior frontal gurys (IFG) plays a critical role in
+verb processing (e.g., Cappa & Perani, 2003; Shapiro & Caramazza,
+2003a; Shapiro et al., 2006; Silveri & Ciccarelli, 2007; Vigliocco et al.,
+2011). However, some lesions studies on patients with verb impairment
+did not show lesions within the left IFG (e.g., Aggujaro, Crepaldi,
+Pistarini, Taricco, & Luzzatti, 2006; Silveri, Perri, & Cappa, 2003;
+Tranel et al., 2005). In both some neuroimaging studies in healthy
+participants (e.g., Siri et al., 2008; Vigliocco et al., 2006) and the current
+study, no verb-minus-noun activations were observed in this area.
+It is likely that verb-specific activation in the left IFG does not reflect
+verb processing per se, but greater processing demands (Mätzig et al.,
+2009; Vigliocco et al., 2011).
+Using naming languages rich in inflectional morphology, some
+studies showed the noun-verb differences in morpho-syntactic processing
+during picture naming under phrasal (Siri et al., 2008) or sentential
+contexts (Momenian et al., 2016; Siri et al., 2008). Despite that different
+morpho-syntactic processes between nouns and verbs have been taken
+as one of the origins of noun-verb dissociation (Shapiro & Caramazza,
+2003a, 2003b; Shapiro et al., 2000), the semantic distinction between
+Fig. 2. Brain regions associated with action naming relative to object naming under forced (top) and free (bottom) conditions.
+Table 3
+Brain regions showing significant activations when free naming condition and forced naming condition are compared.
+Activated regions MNI coordinates Brodmann area Cluster size Z score
+x y z
+Free-forced
+Right superior/inferior parietal lobule 48 −54 40 7/40 1586 9.46
+Right middle frontal gyrus 44 32 32 6/8/9 1404 8.29
+42 54 6 10 311 7.11
+Right medial frontal gyrus 8 26 44 6/8 548 7.02
+Right inferior temporal gyrus 62 −22 −22 20 42 5.07
+Left superior/inferior parietal lobule −46 −60 52 7/40 866 8.98
+Left superior/middle frontal gyrus −38 52 −2 10/11 704 7.05
+Left middle frontal gyrus −48 24 42 8/9 542 6.82
+Left precuneus −4 −66 52 7 247 7.07
+Left middle temporal gyrus −58 −28 −18 21 69 5.91
+Forced-free
+Right inferior parietal lobule 66 −30 34 40 233 7.41
+Left inferior parietal lobule −62 −36 32 40 70 5.99
+Left cingulate gyrus −12 −26 42 31 114 7.94
+Left inferior frontal gyrus −22 30 −6 47 58 6.73
+Activations are listed at a significance threshold of p < 0.001, corrected for false discovery rate. Only clusters with more than 20 voxels are listed.
+Y. Zhang et al. Brain and Language 179 (2018) 22–32
+27
+object nouns and action verbs seems to offer a more plausible account
+for the origin of noun-verb dissociation and verb-specific activations in
+the current study. Here, participants named pictures in a language with
+minimal inflectional morphology and did so out of phrasal or sentential
+contexts. Thus, when action naming was compared to object naming,
+the BOLD responses related to motor processing cannot be ascribed to
+the morpho-syntactic difference but to the semantic difference between
+the processing of object nouns and action verbs.
+Chinese is a language with virtually no inflectional morphology
+(Bates et al., 1991), thus providing a desirable alternative to rule out
+morpho-syntactic processing demands in the study of noun-verb distinction.
+To minimize the morpho-syntactic confounds, several fMRI
+studies with lexical (Li, Jin, & Tan, 2004) or semantic (Yu, Bi, Han, Zhu,
+& Law, 2012; Yu et al., 2011) judgment tasks investigated the neural
+substrates underlying the processing of nouns and verbs in Chinese.
+Those fMRI studies with comprehension tasks offered insights into the
+processing of nouns and verbs in Chinese. However, there have been no
+fMRI studies which addressed the noun-verb distinction using picture
+naming in Chinese. Only several behavioral studies examined word
+class effects with picture naming tasks in Chinese aphasic patients
+(Bates et al., 1991; Bi, Han, Shu, & Caramazza, 2005; Law, Kong, Lai, &
+Lai, 2015). In those behavioral studies, two sets of pictorial stimuli
+(e.g., object pictures and action pictures) were used. As mentioned
+above, the use of two pictorial datasets may result in confounds from
+visual processing demands (Liljeström et al., 2008; Siri et al., 2008).
+Using Chinese as the naming language and the same set of pictorial
+stimuli for object naming or action naming, the current study could in a
+way lessen confounds from morpho-syntactic and visual processing
+demands.
+Similar to some fMRI studies which used a set of pictures for naming
+to lessen visual confounds (Hernandez et al., 2001; Liljeström et al.,
+2008; Siri et al., 2008), the current study used the same set of pictorial
+stimuli for object naming or action naming. Whereas those studies used
+a set of action pictures for naming which, as aforementioned, may lead
+to naming uncertainties for objects (e.g., “to light (the candle) vs.
+“candle”, “hand”, “match’, and “flame”), the current study used a set of
+object pictures for naming objects or actions performed on/with the
+objects (e.g., bike-ride) (Péran et al., 2009). In this way, there were no
+response uncertainties for object naming. However, naming uncertainties
+arose for actions (e.g., door-open/close). To solve this problem
+of naming uncertainties in the current study, participants were
+asked to familiarize with the action concepts during the practice session
+and remain consistent in concept naming throughout the experiment
+(Liljeström et al., 2008). Notably, the difference in naming uncertainties
+between our study and those studies was that the uncertainties
+in the former resulted from idiosyncratic action concepts
+which first came into one’s mind whereas the uncertainties in the latter
+from differential visual analyses.
+Apart from the motor and premotor cortices, our results also showed
+verb-specific subcortical activation in the left thalamus and insula. The
+potential role of subcortical areas in action-verb processing is worth
+particular attention. Actually, it has been suggested that action-language
+networks are dependent on cortical-subcortical integration
+(Cardona et al., 2013). The thalamic activation is widely observed in
+language production and comprehension tasks (for a review see Llano,
+2013). The insular activation has been observed in word generation,
+naming, phonological discrimination and auditory processing (for a
+meta-analysis see Ardila, Bernal, & Rosselli, 2014).
+The main effect of naming conditions showed the involvement of
+the motor system during action naming relative to object naming
+whereas no significant activation was observed during object naming
+relative to action naming, consistent with the results of studies which
+showed verb-specific activation whereas no significant activation for
+nouns was observed (e.g., Berlingeri et al., 2008; Crescentini, Shallice,
+& Macaluso, 2010; Damasio et al., 2001; Kable, Lease-Spellmeyer, &
+Chatterjee, 2002; Momenian et al., 2016; Perani et al., 1999; Tyler &
+Moss, 2001). Crepaldi et al. (2011) have postulated that action pictures
+unavoidably included the representation of objects and agents involved
+in the action. Similarly, in the current study, action naming unavoidably
+involved the presentation of a corresponding object because
+an action was performed on/with the object (e.g., When the pictorial
+stimulus “pen” was presented, the naming of the action “to write”,
+which was performed with an instrument, would surely involve the
+representation of the object “pen”). As a result, action naming elicited
+Fig. 3. Brain regions associated with free naming condition relative to forced naming condition (top) and forced naming condition relative to free naming condition (bottom).
+Y. Zhang et al. Brain and Language 179 (2018) 22–32
+28
+motor-related brain activity compared to object naming, whereas the
+opposite comparison showed no significant activations.
+When it came to the (free vs. forced) naming conditions, our fMRI
+results showed that action naming relative to object naming engaged
+the left motor/premotor cortices, thalamus and insula, independent of
+free (internally motivated) or forced (externally elicited) naming conditions.
+The verb-specific cortical-subcortical activation irrespective of
+free or forced naming conditions offered further supports for the role of
+the motor system in the processing of action verbs. However, reduced
+verb-specific activation was observed under free naming conditions
+relative to forced naming conditions. Moreover, in terms of error rates,
+improved behavioral performance was also observed for free naming.
+Previous studies reported behavioral performance benefits and/or reduced
+brain activations in word production and language switching
+under free conditions compared to under forced conditions (Blanco-
+Elorrieta & Pylkkänen, 2017; Crosson et al., 2001; Tremblay & Gracco,
+2006; Zhang et al., 2015). The ease of naming a picture as an object or
+an action on one’s free will and the effortful naming as required may
+reflect automatic versus controlled processing. Naming under free
+conditions may have a clinical implication for patient-friendly assessment
+of language production abilities.
+In addition, our fMRI results showed elevated brain activities in the
+frontal-parietal cortex under free naming conditions compared to under
+forced naming conditions, well in line with findings of fMRI studies on
+free language selection (Zhang et al., 2015) and free task selection (Orr
+& Banich, 2014). The frontal-parietal function is generally believed to
+involve executive control (MacDonald et al., 2000). Thus, significant
+activations in the frontal-parietal cortex on free naming trials relative to
+on forced naming trials suggested the engagement of cognitive control
+mechanisms when participants had freedom to produce an intended
+object or action concept. On the other hand, forced naming trials relative
+to free naming trials elicited brain activations in the left inferior
+frontal cortex and cingulate gyrus, two regions which were thought to
+involve inhibition processing or attentional control when participants
+were externally directed to conduct cognitive tasks (Garavan, Ross,
+Murphy, Roche, & Stein, 2002; Swick, Ashley, & Turken, 2008; Zhang,
+Feng, Fox, Gao, & Tan, 2004).
+Taken together, the processing disadvantage of verbs may be ascribed
+to the greater cognitive demands for morpho-syntactic or semantic
+processing, and for visual analysis in the case of picture-naming
+studies, in a separate or jointed way. By minimizing morpho-syntactic
+and visual-spatial confounds, the current fMRI study has provided
+evidence for the dissociation between nouns and verbs along semantic
+dimensions. The evidence has lent supports for a semantic view that the
+noun-verb dissociation is in fact a reflection of an underlying conceptual
+deficit disproportionately affecting either object or action
+concepts (Berlingeri et al., 2008; Crepaldi et al., 2011; Pulvermüller
+et al., 1999; Vigliocco et al., 2011). The semantic view of the noun-verb
+dissociation within conceptual system therefore could be generalized
+across languages. However, the current study does not defy the
+morpho-syntactic origin of noun-verb dissociation. In fact, lexical categories
+are prototype notions with fussy boundaries, grounded in semantic
+and morpho-syntactic dimensions (Givón, 1984). While the semantic
+dimension is language-general, the morpho-syntactic dimension
+is language-specific. Thus, although both of the two dimensions are at
+interplay, semantics is the basic origin of noun-verb dissociation.
+Converging neuroimaging evidence from studies on brain-damaged
+patients and non-brain-damaged participants pinpoints to the role of
+the motor system in action naming, suggesting a link between action
+word processing and motor system (e.g., Chow et al., 2010; Cotelli
+et al., 2007, in press, 2006; Hauk et al., 2004; Péran et al., 2009;
+Pulvermüller, 2005). Specifically, verbs are semantically more demanding
+of cognitive resources, as shown by the engagement of the
+cortical-subcortical motor system in the processing of action verbs. Our
+behavioral results showed that action naming was overall slower than
+object naming in response latencies. Moreover, action naming had
+overall higher error rates than object naming. Our behavioral results
+were consistent with those of studies in aphasic patients (for a review
+see Mätzig et al., 2009) and in neurologically intact participants using
+picture naming (e.g., Bogka et al., 2003; Cotelli et al., 2012; Szekely
+et al., 2005). Therefore, the processing disadvantage for verbs, namely
+slower response latencies and higher error rates, may be accounted for
+by additional cognitive demands for processing the motor aspects of
+action verbs. Similarly, greater vulnerability of verbs in brain damage
+can be ascribed to the coupling of language deficits and motor impairment.
+One of limitations in the current study is an absence of clinical
+patient samples. Findings from studies of both patients with brain damage
+and neurologically intact participants will provide converging
+and complementary evidence for the role of the motor system in the
+processing of action verbs. Notably, within semantics, heterogeneity of
+the semantic references of object-noun or action-verb stimuli can be a
+major confounding factor that results in conflicting findings. For example,
+there has been evidence showing dissociation between agentand
+theme-body verbs in Amyotrophic Lateral Sclerosis (Cousins, Ash,
+& Grossman, in press). Future studies need to consider finer-grained
+categories within both the object and the action sets.
+Acknowledgement
+This study was supported by Chinese Ministry of Education
+Humanities and Social Sciences Youth Project – China (15YJC740138),
+China Postdoctoral Science Foundation (2015M582491), Chongqing
+Postdoctoral Science Foundation (XM2015035), Hatch Project for
+Social Sciences of Chongqing (2013PYYY03) and Chongqing Scientific
+& Technological Talents Program (kjxx2017011). We thank Dr. Qunlin
+Chen for his suggestions on data analysis.
